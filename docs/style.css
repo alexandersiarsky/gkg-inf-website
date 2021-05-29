@@ -1,23 +1,82 @@
 /* Remove the standard margin/padding of the html body */
+
 body {
     margin: 0;
     padding: 0;
 }
 
 .menu {
-    
+    text-align: center;
 }
 
-.page {
+.page {}
 
-}
-
-.footer {
-
-}
+.footer {}
 
 .container {
     margin-left: 100px;
     margin-top: 20px;
+}
 
+.myButton {
+    box-shadow: inset 0px 1px 0px 0px #ffffff;
+    background: linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+    background-color: #f9f9f9;
+    border-radius: 6px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    cursor: pointer;
+    color: #666666;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 6px 24px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #ffffff;
+}
+
+.myButton:hover {
+    background: linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+    background-color: #e9e9e9;
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
+
+.rechts {
+    float: right;
+    margin-left: 10px;
+}
+
+.gg-shopping-cart {
+    display: block;
+    box-sizing: border-box;
+    position: relative;
+    transform: scale(var(--ggs, 1));
+    width: 20px;
+    height: 21px;
+    background: linear-gradient( to left, currentColor 12px, transparent 0) no-repeat -1px 6px/18px 2px, linear-gradient( to left, currentColor 12px, transparent 0) no-repeat 6px 14px/11px 2px, linear-gradient( to left, currentColor 12px, transparent 0) no-repeat 0 2px/4px 2px, radial-gradient( circle, currentColor 60%, transparent 40%) no-repeat 12px 17px/4px 4px, radial-gradient( circle, currentColor 60%, transparent 40%) no-repeat 6px 17px/4px 4px
+}
+
+.gg-shopping-cart::after,
+.gg-shopping-cart::before {
+    content: "";
+    display: block;
+    position: absolute;
+    box-sizing: border-box;
+    width: 2px;
+    height: 14px;
+    background: currentColor;
+    top: 2px;
+    left: 4px;
+    transform: skew(12deg)
+}
+
+.gg-shopping-cart::after {
+    height: 10px;
+    top: 6px;
+    left: 16px;
+    transform: skew(-12deg)
 }
