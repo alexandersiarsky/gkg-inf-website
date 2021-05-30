@@ -1,4 +1,4 @@
-# Titel Webseite
+# Lalschokolade
 
 Kurzbeschreibung Webseite. Was ist der Inhalt?
 
@@ -26,11 +26,11 @@ Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wer etwas um?
 
 | Deadline | Name | Beschreibung |
 | --- | --- | --- |
-| 01.01.2021 | Vorname Name | Das wird gemacht |
-| 02.01.2021 | Vorname Name | Das wird gemacht |
-| 03.01.2021 | Vorname Name | Das wird gemacht |
-| 04.01.2021 | Vorname Name | Das wird gemacht |
-| 05.01.2021 | Vorname Name | Das wird gemacht |
+| 29.05.2021 | Leonard Fässler | Produkt Seite wird gemacht |
+| 30.05.2021 | Alexander Siarsky | Herstellung's Seite wird gemacht|
+| 30.05.2021 | Leonard Fässler | Über Uns Seite wird gemacht |
+| 30.05.2021 | Alexander Siarsky | Header wird gemacht |
+| 30.05.2021 | Alexander Siarsky | Footer wird gemacht |
 
 ## Umsetzung
 
