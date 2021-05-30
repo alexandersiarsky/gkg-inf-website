@@ -59,22 +59,3 @@ Die Über Uns Seite ist in zwei Teile eingeteilt. Der erste Teil ist das Über u
 
 Zusammenfassung mit Vergleich zwischen Planung und Umsetzung. Was hat geklappt und was nicht? Konnte der Zeitplan eingehalten werden? Konnten die Skizzen umgesetzt werden?
 
----
-
-Tipps zum README-Markdown:
-- Eine Liste kann man einfach so schreiben
-- Mit Rechtsklick auf `README.md`, `Open Preview` kann man eine Live-Vorschau des Textes sehen 
-- So schreibt man *kursiv*, **fett** und beides ***fettkursiv***
-- So kann man ein Bild einfügen: ![Bildtext](link-zum-bild.jpg)
-- So kann man einen Link einfügen [Linktext](https://google.com)
-
-So kann `einzeiliger Code` eingefügt werden.
-
-So kann mehrzeiliger Code eingefügt werden.
-```
-.test {
-    background-color: blue;
-}
-```
-
-- Weitere Hilfen gibt es hier: https://guides.github.com/features/mastering-markdown
