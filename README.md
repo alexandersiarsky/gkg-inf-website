@@ -35,7 +35,7 @@ Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wer etwas um?
 ## Umsetzung
 
 Detaillierte Beschreibung der umgesetzten Webseite.
-Wenn man auf die Webseite kommt dann startet man auf der Produkt Seite, dort haben wir unsere Produkte aufgelistet. 
+Wenn man auf die Webseite kommt dann startet man auf der Produkt Seite, dort haben wir unsere Produkte aufgelistet. Diese könnte man theoretisch kaufen, diese Funktion haben wir aber noch nicht intergriert.
 
 ### Hauptseite
 
