@@ -3,11 +3,16 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: Arial;
 }
 
-.page {}
-
-.footer {}
+.myfooter {
+    padding-bottom: 40px;
+    padding-top: 40px;
+    margin-top: 60px;
+    background-color: rgba(226, 224, 224, 0.705);
+    text-align: center;
+}
 
 .container {
     margin-left: 100px;
@@ -85,7 +90,7 @@ hr {
 
 .containermenu {
     margin-top: 20px;
-    width: 100%;
+    width: 99%;
     height: 50px;
     padding: 5px;
     padding-bottom: 20px;
