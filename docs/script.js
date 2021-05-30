@@ -7,7 +7,7 @@
 const pagesDirectory = "page/";
 
 // Default html page (home page)
-const defaultPage = "home";
+const defaultPage = "produkte";
 
 
 //////////////////
@@ -31,14 +31,14 @@ function includeHTML() {
             const urlParams = new URLSearchParams(window.location.search);
             let page = urlParams.get("page");
             if (!page) {
-                page = defaultPage; 
+                page = defaultPage;
             }
             file = pagesDirectory + page + ".html";
         }
         if (file) {
             // Make an HTTP request using the attribute value as the file name
             xhttp = new XMLHttpRequest();
-            xhttp.onreadystatechange = function () {
+            xhttp.onreadystatechange = function() {
                 if (this.readyState == 4) {
                     if (this.status == 200) { elmnt.innerHTML = this.responseText; }
                     if (this.status == 404) { elmnt.innerHTML = "Page not found."; }
@@ -57,7 +57,7 @@ function includeHTML() {
 /**
  * Function that is called when the page has finished loading.
  */
-document.addEventListener("DOMContentLoaded", function (event) {
+document.addEventListener("DOMContentLoaded", function(event) {
     includeHTML();
 });
 
@@ -65,4 +65,3 @@ document.addEventListener("DOMContentLoaded", function (event) {
 ///////////////////
 // OTHER SCRIPTS //
 ///////////////////
-
