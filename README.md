@@ -20,7 +20,8 @@ In unserer zweiten Unterseite wollten wir ein „Über uns“ schreiben, dass gl
 
 ## Zeitplan
 
-Um ehrlich zu sein haben wir das ganze Projekt inerhalb einer Woche umgesetzt. Für das Programmieren haben wir uns Privat zusammengesetzt und haben daran gearbeitet, darum ist alles auf meinem Namen eingereicht.
+Um ehrlich zu sein haben wir das ganze Projekt inerhalb einer Woche umgesetzt. Für das Programmieren haben wir uns Privat zusammengesetzt und haben daran gearbeitet, darum ist alles auf meinem Namen eingereicht.Schlussendlich sind wir rechtzeitig mit dem Auftrag fertig geworden und sind zufrieden mit unserer Seite.
+
 
 | Deadline | Name | Beschreibung |
 | --- | --- | --- |
@@ -57,5 +58,6 @@ Die Über Uns Seite ist in zwei Teile eingeteilt. Der erste Teil ist das Über u
 
 ## Zusammenfassung
 
-Zusammenfassung mit Vergleich zwischen Planung und Umsetzung. Was hat geklappt und was nicht? Konnte der Zeitplan eingehalten werden? Konnten die Skizzen umgesetzt werden?
+Ursprünglich wollten wird auf der Website über die über die Geschichte der Firma schreiben. Da uns zu dieser nicht sehr viel eingefallen ist haben wir diese Seite durch die Herstellung der Schokolade ersetzt. 
 
+Die Reihenfolge der Haupt- und Unterseiten ist auf der Skizze auch anders als auf der Website. Auf der Website haben wir uns schlussendlich entschieden die Produkte als Hauptseite zu nehmen die Herstellung als erste Unterseite und die Über uns Seite als zweite Unterseite. Bis auf diese zwei Dinge hat die Umsetzung unserer Seite sehr gut geklappt wir haben die Produkt- und Über uns Seite wie auf der Skizze umgesetzt, ausser bei der Über uns Seite, dort wollten wir ursprünglich noch Bilder von uns einfügen, da diese aber nicht in das gesammt Bild gepasst haben, haben wir sie wieder gelöscht.
